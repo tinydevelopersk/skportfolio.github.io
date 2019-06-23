@@ -45,14 +45,7 @@ body{
     text-align: center;
    
 }
-
-@media screen and (min-width: 601px) {
-   .user-box p{
-    font-size: 80px;
-  }.user-box h1{
-	  font-size: 80px; }
-}
-
+/*---------------Responsive h1 p-------------------*/
 @media screen and (max-width: 600px) {
   .user-box p {
     font-size: 30px;
