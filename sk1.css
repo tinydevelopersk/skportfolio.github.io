@@ -35,13 +35,14 @@ body{
     font-weight: bold;
     padding: 0;
     margin: 50px;
-    
+    text-align: center;
 }
 .user-box p
 {
     color: #fff;
     padding: 0;
     margin: 50px;
+    text-align: center;
    
 }
 .scroll-btn
