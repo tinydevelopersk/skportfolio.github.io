@@ -47,10 +47,10 @@ body{
 }
 /*---------------Responsive h1 p-------------------*/
 @media screen and (max-width: 600px) {
-  .user-box p {
+  .user-box h1 {
     font-size: 30px;
-  }.user-box h1{
-	  font-size: 30px; }
+  }.user-box p{
+	  font-size: 10px; }
 }
 .scroll-btn
 {
