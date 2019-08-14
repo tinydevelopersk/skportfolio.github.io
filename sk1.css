@@ -256,7 +256,7 @@ body{
 .contact
 {
     padding-top: 50px;
-	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(img/fernando-hernandez-1258790-unsplash.jpg);
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(img/alex-ant-iRnjlKjNXgg-unsplash.jpg);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -319,21 +319,22 @@ body{
 }
 .social-icons ul
 {
-    padding: initial;
+    padding: 2px;
 }
 .social-icons ul li
 {
     height: 40px;
     width: 40px;
+    border-radius: 50%;
     list-style-type: none;
-    padding-left: 12px;
-    padding-top: 6px;
-    margin-top: 5px;
+    padding-left: 13px;
+    padding-top: 7px;
+    margin-top: 10px;
     background: #000;
 }
 .social-icons ul li:hover
 {
     padding-left: 30px;
-    width: 80px;
+    width: 0px;
     transition: .6s;
 }
